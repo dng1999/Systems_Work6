@@ -5,4 +5,5 @@ run: a.out
 	./a.out
 
 clean:
-	rm*~
+	rm *~
+	rm sigmsg.txt
